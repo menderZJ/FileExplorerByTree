@@ -1,0 +1,14 @@
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\bin\Debug\FileExplorerByTree.exe
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\bin\Debug\FileExplorerByTree.pdb
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.Form1.resources
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.Properties.Resources.resources
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.csproj.GenerateResource.cache
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.csproj.CoreCompileInputs.cache
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.exe
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.pdb
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\bin\Debug\FileExplorerByTree.exe.manifest
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\bin\Debug\FileExplorerByTree.application
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.TrustInfo.xml
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.exe.manifest
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.application
+E:\DotNetProject\studyProject\FileExplorerByTree\FileExplorerByTree\obj\Debug\FileExplorerByTree.csprojAssemblyReference.cache
